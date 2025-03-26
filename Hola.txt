@@ -1,0 +1,1 @@
+"git pull" to get the files from GitHub to directory file.
